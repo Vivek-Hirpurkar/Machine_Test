@@ -15,7 +15,7 @@ namespace Firstproject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "This Is Our Description.";
+            ViewBag.Message = "Welcome to the Cricket World";
 
             return View();
         }
